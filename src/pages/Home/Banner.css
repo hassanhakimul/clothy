@@ -1,0 +1,9 @@
+.btns{
+    border: none;
+    padding: 13px 23px;
+    transition: margin-top;
+}
+.btns:hover{
+    background-color: #e6206c;
+   top: -3px;
+}

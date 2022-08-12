@@ -1,0 +1,12 @@
+[
+    {"_id":"1","name":"Giorgio Armani","img":"https://img.freepik.com/premium-photo/gorgeous-elegant-sensual-blonde-woman-wearing-fashion-black-dress_149155-246.jpg?size=626&ext=jpg&ga=GA1.2.265569347.1641235396", "discount":"-29%","price":"53.55","nPrice":"63"},
+
+    {"_id":"2","name":"Christian Dio","img":"https://img.freepik.com/premium-photo/smiling-student-woman-with-backpack-camera-going-vacation_149155-4472.jpg?size=626&ext=jpg&ga=GA1.2.265569347.1641235396", "discount":"-29%","price":"35.55","nPrice":"63"},
+
+    {"_id":"3","name":"Louis Vuitton.","img":"https://img.freepik.com/free-photo/happy-girl-with-blonde-hair-red-glasses-white-dress-holding-cool-handbag-pointing-place-text-pink-background_197531-28913.jpg?size=626&ext=jpg&ga=GA1.2.265569347.1641235396", "discount":"-29%","price":"33.55","nPrice":"63"},
+
+    {"_id":"4","name":"Versace","img":"https://img.freepik.com/free-psd/woman-posing-sports-bra-side-view_23-2149480840.jpg?size=338&ext=jpg&ga=GA1.2.265569347.1641235396", "discount":"-29%","price":"38.55","nPrice":"63"},
+
+    {"_id":"5","name":"Yves Saint Laurent","img":"https://img.freepik.com/free-photo/smiling-beautiful-young-woman-pink-mini-dress-posing-studio_155003-14602.jpg?size=626&ext=jpg&ga=GA1.2.265569347.1641235396", "discount":"-29%","price":"43.55","nPrice":"63"}
+   
+]

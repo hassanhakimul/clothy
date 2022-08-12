@@ -1,0 +1,16 @@
+[
+    {"_id":"1","name":"Gucci","img":"https://media.istockphoto.com/photos/beautiful-men-fashion-fleece-jacket-picture-id637314274?k=20&m=637314274&s=612x612&w=0&h=GlupJmtzwmC3qqvjkryGtU641m6fNwSNqf2hP0ZxYik=", "discount":"-29%","price":"53.55","nPrice":"63"},
+
+    {"_id":"2","name":"Prada","img":"https://media.istockphoto.com/photos/checked-shirt-isolated-on-white-background-picture-id1082507432?k=20&m=1082507432&s=612x612&w=0&h=1a5K_5Kmm1MoUCN-Xq0995Pp4a3pYQmBMJ0n4gOCRDE=", "discount":"-29%","price":"35.55","nPrice":"63"},
+
+    {"_id":"3","name":"Armani","img":"https://media.istockphoto.com/photos/mens-shirt-in-a-cage-isolated-on-a-white-background-picture-id1164125810?k=20&m=1164125810&s=612x612&w=0&h=5s5ZUm_hz0w-0_yNxtbk35n58w5FlYBIbGgjv3krglk=", "discount":"-29%","price":"33.55","nPrice":"63"},
+
+    {"_id":"4","name":"D&G","img":"https://media.istockphoto.com/photos/woman-winter-clothes-picture-id97929853?k=20&m=97929853&s=170667a&w=0&h=1nT1s_x6SUtgkLJ-aTsEtoXlFDDacHE--NyeCvTFBIs=", "discount":"-29%","price":"38.55","nPrice":"63"},
+
+    {"_id":"5","name":"Chanel","img":"https://media.istockphoto.com/photos/orange-checkered-shirt-with-collar-and-buttons-isolated-on-white-picture-id1025362582?k=20&m=1025362582&s=612x612&w=0&h=6s_fUpXIWg-O2dhKrFyMoKmHKOKXE6zVmXcTJujwGeo=", "discount":"-29%","price":"43.55","nPrice":"63"},
+
+    {"_id":"6","name":"Valentino","img":"https://media.istockphoto.com/photos/shirt-isolated-picture-id475162180?k=20&m=475162180&s=612x612&w=0&h=ZcjcLVr8DFd0hgIWkZW4gUqqdyQm0Nq9QNvUmqD3p5E=", "discount":"-29%","price":"59.55","nPrice":"63"},
+
+    {"_id":"7","name":"Versace","img":"https://media.istockphoto.com/photos/clothes-lumberjack-jacket-picture-id186868730?k=20&m=186868730&s=170667a&w=0&h=2fQXM--DHfOf4JF6HBPuCUXCiLZnw6bEhoJ95ncQO1g=", "discount":"-29%","price":"50.55","nPrice":"63"}
+   
+]
